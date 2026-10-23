@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#titulo{
+    display: flex 1;
+    text-align: center;
+    align-items: center;
+}
+
+div{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 0px 350px 0px ;
+    background-color: rgb(55, 51, 51);
+    align-items: flex-start;
+    
+}
+
+label{
+    text-align: start;
+    margin: 50px 1000px 100px 0;
+}
+
+input{
+    margin: 0 0 20px 300px;
+    border-radius: 4px;
+}
+
+#boton1{
+    border: 1px solid;
+    padding: 10px;
+    margin-right: 610px;
+    margin-left: 550px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+#informacion{
+    border: 0px;
+}
